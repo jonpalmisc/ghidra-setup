@@ -1,8 +1,8 @@
 # ghidra-setup
 
-This is a small script for Inno Setup to package Ghidra for Windows. It will
-place Ghidra in the program files directory and create start menu entries
-and/or desktop shortcuts.
+This is a small script for Inno Setup to package Ghidra for Windows. I prefer
+having Ghidra "installed" rather than living on my desktop. This installer will
+put it in Program Files and create start menu entries, desktop icons, etc. 
 
 # Prebuilt installers
 
