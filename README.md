@@ -4,7 +4,11 @@ This is a small script for Inno Setup to package Ghidra for Windows. It will
 place Ghidra in the program files directory and create start menu entries
 and/or desktop shortcuts.
 
-# Usage
+# Prebuilt installers
+
+You can find prebuilt installers in the releases section.
+
+# Building installers 
 
 1. Download and install [Inno Setup](https://jrsoftware.org/isinfo.php).
 2. Download a Ghidra release and rename the folder to "ghidra", or modify the
@@ -14,6 +18,8 @@ and/or desktop shortcuts.
    "out".
 5. Compile the installer with Inno Setup.
 6. Install and and have fun!
+
+**Note: Remember that Ghidra requires JDK 11 or greater!**
 
 # License
 
