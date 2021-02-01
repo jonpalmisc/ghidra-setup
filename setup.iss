@@ -11,7 +11,7 @@
 #define ProgramAssocKey StringChange(ProgramAssocName, " ", "") + ProgramAssocExt
 
 [Setup]
-AppId={{8C58CE7B-1824-46DD-9DC6-9817ECE4B8AB}
+AppId={{8C58CE7B-1824-46DD-9DC6-9817ECE4B8AB}}
 AppName={#ProgramName}
 AppVersion={#ProgramVersion}
 AppPublisher={#ProgramPublisher}
